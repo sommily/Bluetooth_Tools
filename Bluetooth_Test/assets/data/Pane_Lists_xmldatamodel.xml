@@ -1,0 +1,4 @@
+<root>
+	<pane name = "Switch Pane" value = "switch"/>
+	<pane name = "GamePad Pane" value = "gamepad"/>
+</root>
